@@ -1,6 +1,6 @@
 # Project_2-CommonLit_Readability
 This project is on the Kaggle competition "CommonLit Readability Prize" .Rate the complexity of literary passages for grades 3-12 classroom use.
-In this competition, we're predicting the reading ease of excerpts from literature. We've provided excerpts from several time periods and a wide range of reading ease scores. 
+In this competition, we're predicting the reading ease of excerpts(target score) from literature. We've provided excerpts from several time periods and a wide range of reading ease scores. 
 Test set includes a slightly larger proportion of modern texts (the type of texts we want to generalize to) than the training set.
 This is a NLP Problem where we have to try different NLP models. Then ensemble them using various ensemble techniques.
 We will be using various NLP Models like (Roberta-Base, Roberta-Large, Deberta, Electra, etc.).We also be using various fine-tuning strategies like 
@@ -35,3 +35,5 @@ Standard error is included as an output of the Bradley-Terry analysis because in
 
 
 ![Project_2_Train_Screenshot](https://user-images.githubusercontent.com/53327139/169512769-9bf99097-90cf-4816-86c2-a2adab668c78.png)
+
+![Project_2_Test_Screenshot](https://user-images.githubusercontent.com/53327139/169513310-34a79494-c148-458d-b2f4-3ce178a16b93.png)
