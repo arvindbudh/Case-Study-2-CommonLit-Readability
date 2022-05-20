@@ -32,3 +32,6 @@ standard_error - measure of spread of scores among multiple raters for each exce
 The target value is the result of a Bradley-Terry analysis of more than 111,000 pairwise comparisons between excerpts. Teachers spanning grades 3-12 (a majority teaching between grades 6-10) served as the raters for these comparisons.
 
 Standard error is included as an output of the Bradley-Terry analysis because individual raters saw only a fraction of the excerpts, while every excerpt was seen by numerous raters. The test and train sets were split after the target scores and standard error were computed.
+
+
+![Project_2_Train_Screenshot](https://user-images.githubusercontent.com/53327139/169512769-9bf99097-90cf-4816-86c2-a2adab668c78.png)
